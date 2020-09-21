@@ -1,0 +1,4 @@
+USERS_DB=tests/test_data/test.json
+QUESTIONS_DB=tests/test_data/test_questions.json
+SURVEYS_DB=tests/test_data/test_surveys.json
+SURVEY_RESPONSES_DB=tests/test_data/test.json

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2,
+        "question": "What is your location?",
+        "response_type": "multiple_choice",
+        "response_accepted": [
+            "UK",
+            "Australia",
+            "Singapore"
+        ]
+    }
+]
